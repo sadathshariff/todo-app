@@ -31,12 +31,14 @@ form button {
   font-size: 1.2rem;
   border: none;
   background: white;
+  margin-left: 5px;
 }
 form button {
   color: #d88771;
   background: white;
   cursor: pointer;
   transition: all 0.3 ease;
+  margin-left: 0;
 }
 form button:hover {
   background: #d88771;
