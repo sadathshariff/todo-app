@@ -6,4 +6,4 @@ You can use this for improving productivity by adding your daily tasks by clicki
 
 [Todo App](https://sadath-todo-app.netlify.app/)
 
-![Todo App](image\sadath-todo-app.PNG)
+![Todo App](https://github.com/sadathshariff/todo-app/blob/main/image/sadath-todo-app.PNG)
